@@ -1,1 +1,1 @@
-#!/usr/bin/python36
+#!/usr/bin/python36print()[D""[D[C)[D[DHelllo)[D")
